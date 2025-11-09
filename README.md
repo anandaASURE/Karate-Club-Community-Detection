@@ -1,4 +1,5 @@
 # Community Detection in Zachary's Karate Club
+## ANANDA JANA | @ IISER TVM
 
 This project finds hidden groups in a famous social network using spectral analysis. Think of it like automatically discovering friend circles in a club.
 
